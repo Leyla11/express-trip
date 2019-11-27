@@ -6,11 +6,11 @@ Esta app fue creada pensando en el placer de viajar y disfrutar al 100% de su vi
 
 Para poder usar esta app es necesario usar los siguientes usuarios de prueba: 
 
-Name: James Alddafhdifeif Wongberg
+//Name: James Alddafhdifeif Wongberg
 Email: gzhleebcdg_1574876134@tfbnw.net
 Pass: Express-Trip
 
-Name: Ethan Alddjicihjfba Qinman
+//Name: Ethan Alddjicihjfba Qinman
 Email: lmgohcuyfz_1574876136@tfbnw.net
 Pass: Express-Trip
 
